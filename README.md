@@ -21,7 +21,7 @@ En todo el sitio web se puede encontrar una barra de navegación para ir de una 
 <img src="capturas/borraSocio.jpeg"/>
 
 ### Películas: Se muestra el listado de todas las películas registradas con la opción para poder borrar o modificar sus datos.
-<img src="capturas/lista_Pelis.jpeg"/>
+<img src="capturas/lista_pelis.jpeg"/>
 
 ### Al darle a modificar, redireccionará a otra página donde se podrá rellenar el formulario con los datos nuevos.
 <img src="capturas/mod_peli.jpeg"/>
