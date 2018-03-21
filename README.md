@@ -26,7 +26,7 @@ En todo el sitio web se puede encontrar una barra de navegación para ir de una 
 ### Al darle a modificar, redireccionará a otra página donde se podrá rellenar el formulario con los datos nuevos.
 <img src="capturas/mod_peli.jpeg"/>
 
-### Al darle a borrar, aparecerá un mensaje y botones para seleccionar una nueva acción.
+### Al darle a borrar, aparecerá un mensaje.
 <img src="capturas/borraPeli.jpeg"/>
 
 ### Alta Socio: Formulario donde rellenar los datos de los socios nuevos.
