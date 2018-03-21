@@ -6,8 +6,8 @@ El CRUD está basado en un club de películas entre amigos.
 En todo el sitio web se puede encontrar una barra de navegación para ir de una página a otra. Tanto al pinchar en el título como en inicio, siempre devolverá a la index.
 
 ### Índex: Se muestra el listado de todos los préstamos con la opción de poder borrar el préstamo que se considere.
-<img src="capturas/index.jpeg">
-### Al darle a borrar, redireccionará a otra página donde indica que se ha podido borrar correctamente.
+<img src="capturas/index.jpeg"/>
+Al darle a borrar, redireccionará a otra página donde indica que se ha podido borrar correctamente.
 <img src="capturas/prestamo_borrado.jpeg"/>
 ### Socios: Se muestra el listado de todos los socios dados de alta con la opción para poder borrar o modificar los datos de los mismos.
 <img src="capturas/lista_socios.jpeg"/>
