@@ -33,7 +33,7 @@ En todo el sitio web se puede encontrar una barra de navegación para ir de una 
 ### Alta Socio: Formulario donde rellenar los datos de los socios nuevos.
 <img src="capturas/formAltaSocio.jpeg"/>
 
-### Al enviar los datos, si los datos son correctos y el DNI no está repetido y, por tanto, ese socio no existe previamente, aparecerá un mensaje dando el Ok. Si, por el contrario, el DNI estuviera repetido, saltara un error.
+### Al enviar los datos, si los datos son correctos y el DNI no está repetido y, por tanto, ese socio no existe previamente, aparecerá un mensaje dando el Ok. Si, por el contrario, el DNI estuviera repetido, saltará un error.
 <img src="capturas/altaSocio.jpeg"/>
 <img src="capturas/noGuardaSocio.jpeg"/>
 
